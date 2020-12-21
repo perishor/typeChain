@@ -1,0 +1,13 @@
+{
+  "name": "typeChain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/perishor/typeChain.git",
+  "author": "perishor <perishor0921@gmail.com>",
+  "license": "MIT",
+  "description": "Learning typescript by making a Blockchanin with it",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
